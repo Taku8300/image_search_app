@@ -6,10 +6,6 @@ unsplashのAPIを用いた簡易的な画像検索アプリ
 
 リポジトリをクローン
 
-```
-git clone https://github.com/IESKA2KHobbyLink/HobbyLinks.git
-```
-
 ## image_search_app
 
 #### image_search_app の環境構築
